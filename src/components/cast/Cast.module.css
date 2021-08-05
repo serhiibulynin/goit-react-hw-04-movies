@@ -1,0 +1,17 @@
+.castList {
+  list-style: none;
+}
+
+.castItem {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.castImg {
+  max-width: 100%;
+  height: auto;
+}
+
+.castTitle {
+  font-weight: 700;
+}

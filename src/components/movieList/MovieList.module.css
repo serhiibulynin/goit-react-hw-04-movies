@@ -1,0 +1,11 @@
+.movieList {
+  list-style: none;
+  color: black;
+}
+
+.movieListItem {
+  font-size: 24px;
+  margin-top: 20px;
+  margin-left: 20px;
+  color: black;
+}

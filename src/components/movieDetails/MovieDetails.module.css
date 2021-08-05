@@ -1,0 +1,39 @@
+.wrapper {
+  display: flex;
+}
+.movieImg {
+  margin-right: 50px;
+}
+.movieTitle {
+  margin-bottom: 30px;
+  font-size: 50px;
+  text-transform: uppercase;
+}
+.movieSubtitle {
+  margin-top: 20px;
+  margin-bottom: 15px;
+  font-size: 30px;
+}
+.movieOverview {
+  display: block;
+  font-weight: 500;
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+.movieGenreList {
+  margin-bottom: 15px;
+  list-style: none;
+  display: flex;
+}
+.detailsItem {
+  margin-left: 20px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.movieLink {
+  margin: 20px;
+
+  font-size: 30px;
+  font-weight: 500;
+  text-decoration: none;
+}

@@ -1,0 +1,12 @@
+.nav {
+  align-items: center;
+}
+
+.navLink {
+  margin-right: 20px;
+  font-size: 24px;
+  color: black;
+}
+.active {
+  color: blueviolet;
+}
